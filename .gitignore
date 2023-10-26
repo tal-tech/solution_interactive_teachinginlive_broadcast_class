@@ -1,0 +1,9 @@
+nb_note_score/models/medium_0.3/model_best_loss_9_20_regression_0.3.pth.tar
+face_recognition/src/3rdParty/tensorflow/r1.8/libs/Linux/cuda9/libtensorflow_cc.so
+face_recognition/src/3rdParty/tensorflow/r1.8/libs/Linux/cpu/libtensorflow_cc.so
+face_recognition/src/3rdParty/ubuntu-cuda10/libcudnn.so.7
+face_recognition/src/3rdParty/ubuntu-cuda10/libnvinfer.so.5
+face_recognition/src/3rdParty/ubuntu-cuda10/libcublas.so.10.0
+face_recognition/src/det_face_id/libs/linux/gpu/libcudnn.so.7
+face_recognition/src/det_face_id/libs/linux/gpu/libnvinfer.so.5
+face_recognition/src/det_face_id/libs/linux/gpu/libcublas.so.10.0

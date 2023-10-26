@@ -1,0 +1,7 @@
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/GodeyeVideoCrow.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/edit_cache.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/rebuild_cache.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/list_install_components.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/install.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/install/local.dir
+/home/mayang8/open_source/face_recognition/src/CMakeFiles/install/strip.dir

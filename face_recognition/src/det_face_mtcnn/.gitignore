@@ -1,0 +1,10 @@
+*~
+build/
+build_cpu/
+dllBuild_CPU/
+dllBuild_GPU/
+dllRelease/
+output/
+release/
+*.gch
+*.log
